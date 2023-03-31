@@ -34,3 +34,6 @@ To use this project, execute the test1.py file, which contains the code for the 
 Additionally, there are two other python files, "test.py" and "main.py," that contain code designed to meet specified requirements. The "test.py" file includes unit tests for the "main.py" file. When run, the "main.py" file generates an "output.tex" file, which includes the output of computations or analyses performed in the code.
 
 Before starting the project, refer to the docx file to understand the requirements and responsibilities of the internship.
+
+## find the google drive link for the zip file:
+https://drive.google.com/drive/folders/1hKClAfzwZHA7LfytydOPTHZEpTNAkIgI
